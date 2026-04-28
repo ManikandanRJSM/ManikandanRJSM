@@ -20,7 +20,7 @@
 
 - ⚡ **Real-time Streaming** — Event-driven pipelines with Apache Kafka
 - 🔥 **Big Data Processing** — Batch processing & transformations with PySpark
-- 🐍 **Python & Pandas** — Data wrangling, ETL, and feature engineering
+- 🐍 **Python & Pandas** — ETL, and feature engineering
 - 🤖 **Machine Learning** — Classification models with scikit-learn
 - ☁️ **Cloud** — Data pipelines & reporting on AWS
 - 🗄️ **Databases** — MySQL schema design & query optimization
