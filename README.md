@@ -60,7 +60,7 @@ Production Mindset    monitoring     →  validation          →  SLA-compliant
 47,000+ international match records → batch ETL → feature engineering → Win / Draw / Loss classifier.
 Built because I wanted to know: can historical data predict the beautiful game?
 
-[github.com/ManikandanRJSM/fifa_prediction_analysis](https://github.com/ManikandanRJSM/fifa_prediction_analysis)
+[View Project →](https://github.com/ManikandanRJSM/fifa_prediction_analysis)
 
 ---
 
@@ -71,7 +71,7 @@ A passion project meets production engineering.
 Cloud-native ETL built on Bronze → Silver → Gold layers.
 Snappy-compressed, S3-partitioned, Athena-queryable — designed to extend, not just execute.
 
-[github.com/ManikandanRJSM/reporting-fpl](https://github.com/ManikandanRJSM/reporting-fpl)
+[View Project →](https://github.com/ManikandanRJSM/reporting-fpl)
 
 ---
 
