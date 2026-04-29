@@ -10,11 +10,11 @@ shipping features under real constraints. That depth in software engineering is 
 makes my data work different.
 
 My stack spans the full data engineering surface:
-- **Streaming** — real-time CDC pipelines with Kafka & Faust, capturing change at the source
+- **Streaming** — Real-time CDC pipelines with Kafka & Faust, pyspark, capturing change at the source
 - **Batch & Big Data** — PySpark & Spark SQL for large-scale transformation and aggregation
 - **Cloud** — Medallion Architecture on AWS S3, queried through Athena, ready for BI
-- **Databases** — deep MySQL & MariaDB experience: schema design, query optimisation, indexing at scale
-- **ML Pipelines** — feature engineering through to scikit-learn classification, end-to-end
+- **Databases** — Deep MySQL & MariaDB experience: schema design, query optimisation, indexing at scale
+- **ML Pipelines** — Feature engineering through to scikit-learn classification, end-to-end
 
 ---
 
@@ -43,7 +43,7 @@ to go deep on a technology is to build something you actually care about.
 ## ⚙️ What I Do
 
 ```
-Stream Processing     Kafka + Faust  →  CDC pipelines  →  near real-time warehouse
+Stream Processing     Kafka + PySpark  →  CDC pipelines  →  near real-time warehouse
 Batch ETL             PySpark        →  transform at scale  →  clean, partitioned data
 Cloud Architecture    S3 + Athena    →  Medallion layers    →  BI-ready output
 ML Pipelines          feature eng.   →  sklearn models      →  prediction at scale
