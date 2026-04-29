@@ -56,12 +56,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![ManikandanRJSM's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManikandanRJSM&show_icons=true&theme=default&hide_border=true)
-
----
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikandan-r-b10383183)
