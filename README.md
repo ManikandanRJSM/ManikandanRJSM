@@ -75,11 +75,5 @@ Snappy-compressed, S3-partitioned, Athena-queryable — designed to extend, not 
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ManikandanRJSM&show_icons=true&theme=default&hide_border=true&title_color=333&icon_color=555)
-
----
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikandan-r-b10383183)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rmanikandanrjsm@gmail.com)
