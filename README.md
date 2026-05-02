@@ -57,7 +57,7 @@ Production Mindset    monitoring     →  validation          →  SLA-compliant
 ### ⚽ FIFA Match Prediction Engine
 > Python · PySpark · Pandas · scikit-learn
 
-47,000+ international match records → batch ETL → feature engineering → Win / Draw / Loss classifier.
+47,000+ international match records → batch ETL → feature engineering → Win / Loss classifier.
 Built because I wanted to know: can historical data predict the beautiful game?
 
 [View Project →](https://github.com/ManikandanRJSM/fifa_prediction_analysis)
