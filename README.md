@@ -1,6 +1,6 @@
 # Hi, I'm Manikandan 👋
 
-Data Engineer & AI Builder | Pipelines · RAG · LLMs · Big Data · Cloud
+AI Data Engineer | ETL-Pipelines · RAG · LLMs · Big Data · Cloud · ML
 
 ---
 I build pipelines that run in production, not just on localhost.
