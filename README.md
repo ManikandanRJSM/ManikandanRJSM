@@ -1,6 +1,6 @@
 # Hi, I'm Manikandan 👋
 
-🚀 Data Engineer | Pipelines · Big Data · ML · Cloud
+Data Engineer & AI Builder | Pipelines · RAG · LLMs · Big Data · Cloud
 
 ---
 I build pipelines that run in production, not just on localhost.
@@ -15,6 +15,8 @@ My stack spans the full data engineering surface:
 - **Cloud** — Medallion Architecture on AWS S3, queried through Athena, ready for BI
 - **Databases** — Deep MySQL & MariaDB experience: schema design, query optimisation, indexing at scale
 - **ML Pipelines** — Feature engineering through to scikit-learn classification, end-to-end
+- **AI & RAG Pipelines** — End-to-end RAG systems with ChromaDB, SentenceTransformers & Hugging Face LLMs from raw data to natural-language answers
+- **Vector Databases** — ChromaDB for semantic search with metadata filtering and batch upserts
 
 ---
 
@@ -47,6 +49,7 @@ Stream Processing     Kafka + PySpark  →  CDC pipelines  →  near real-time w
 Batch ETL             PySpark        →  transform at scale  →  clean, partitioned data
 Cloud Architecture    S3 + Athena    →  Medallion layers    →  BI-ready output
 ML Pipelines          feature eng.   →  sklearn models      →  prediction at scale
+RAG Pipelines    ChromaDB + HuggingFace  →  semantic search  →  LLM answers
 Production Mindset    monitoring     →  validation          →  SLA-compliant delivery
 ```
 
@@ -54,10 +57,23 @@ Production Mindset    monitoring     →  validation          →  SLA-compliant
 
 ## 🚀 Projects
 
+### 🤖 Tiki-Taka Bot — Football AI (RAG System)
+> Python · PySpark · Delta Lake · ChromaDB · HuggingFace · TinyLlama
+
+150+ years of international football data → PySpark ETL → 
+Delta Lake → vector embeddings → LLM-powered Q&A.
+
+Ask it anything about football history. It answers like a FIFA analyst.
+Fully local. No cloud GPUs. No paid APIs.
+
+[View Project →](https://github.com/ManikandanRJSM/tiki-taka-bot)
+
+---
+
 ### ⚽ FIFA Match Prediction Engine
 > Python · PySpark · Pandas · scikit-learn
 
-47,000+ international match records → batch ETL → feature engineering → Win / Loss classifier.
+150+ years of international football data → batch ETL → feature engineering → Win / Loss classifier.
 Built because I wanted to know: can historical data predict the beautiful game?
 
 [View Project →](https://github.com/ManikandanRJSM/fifa_prediction_analysis)
