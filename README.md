@@ -21,7 +21,7 @@ My stack spans the full data engineering surface:
 ---
 
 ⚽ **Outside of work, I'm an Arsenal fan** — and that passion turned into code.
-I've built two data engineering projects around football, because the best way
+I've built three data engineering projects around football, because the best way
 to go deep on a technology is to build something you actually care about.
 
 ---
