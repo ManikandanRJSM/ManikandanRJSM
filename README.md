@@ -72,7 +72,7 @@ Fully local. No cloud GPUs. No paid APIs.
 
 ---
 
-### 🤖 Guardify — Prompt Injection & Jailbreak Guardrails
+### 🛡️ Guardify — Prompt Injection & Jailbreak Guardrails
 > Python · PySpark · HuggingFace · ML · Supervised Learning
 
 A Python library that detects prompt injection and jailbreak attempts in LLM applications with a single function call.
