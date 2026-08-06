@@ -15,7 +15,7 @@ My stack spans the full data engineering surface:
 - **Cloud** — Medallion Architecture on AWS S3, queried through Athena, ready for BI
 - **Databases** — Deep MySQL & MariaDB experience: schema design, query optimisation, indexing at scale
 - **ML Pipelines** — Feature engineering through to scikit-learn classification, end-to-end
-- **AI & RAG Pipelines** — End-to-end RAG systems with ChromaDB, SentenceTransformers & Hugging Face LLMs from raw data to natural-language answers
+- **AI & RAG Pipelines** — End-to-end RAG systems with VectorDB, SentenceTransformers & Hugging Face LLMs from raw data to natural-language answers
 - **Vector Databases** — ChromaDB for semantic search with metadata filtering and batch upserts
 
 ---
