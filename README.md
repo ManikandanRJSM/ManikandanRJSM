@@ -51,7 +51,7 @@ Stream Processing     Kafka + PySpark  →  CDC pipelines  →  near real-time w
 Batch ETL             PySpark        →  transform at scale  →  clean, partitioned data
 Cloud Architecture    S3 + Athena    →  Medallion layers    →  BI-ready output
 ML Pipelines          feature eng.   →  sklearn models      →  prediction at scale
-RAG Pipelines    ChromaDB + HuggingFace  →  semantic search  →  LLM answers
+RAG Pipelines    VectorDB + HuggingFace  →  semantic search  →  LLM answers
 Production Mindset    monitoring     →  validation          →  SLA-compliant delivery
 ```
 
